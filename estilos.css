@@ -103,6 +103,7 @@ label{
 }
 .ctn13 label{
   margin-left: 5px;
+  cursor: pointer;
 }
 button{
   width: 100%;
